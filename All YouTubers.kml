@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>All YouTubers</name>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Casey Neistat</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/AifAXmLOQfr26BWiJbsZ38pheompcpCjH-_5TvC1_OouBR2AL-aq_wvjjNSJdr6Kfik6fVAaYhouv8UWRBAmXtM12wtN1TzPsW8NffRG0bUO9N7CdszBUifdLd9Txm7B" height="200" width="auto" /><br><br>The office of the mega-popular vlogging innovator Casey Neistat.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/AifAXmLOQfr26BWiJbsZ38pheompcpCjH-_5TvC1_OouBR2AL-aq_wvjjNSJdr6Kfik6fVAaYhouv8UWRBAmXtM12wtN1TzPsW8NffRG0bUO9N7CdszBUifdLd9Txm7B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.0030113,40.7174853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smosh</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/zUbAViHABOLTtw_J-w8EYpjZYYwYF5rkpYEph1oaW1m01lZcUcXOG-yMLt1xxH38RXJwwmZgENgAuZ0JOE9YTutg4umLDOGhjzk9jM4GjhHVMr88c5EGSIwJf1hKQhtMog" height="200" width="auto" /><br><br>The town of the mega-popular short film duo Smosh.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/zUbAViHABOLTtw_J-w8EYpjZYYwYF5rkpYEph1oaW1m01lZcUcXOG-yMLt1xxH38RXJwwmZgENgAuZ0JOE9YTutg4umLDOGhjzk9jM4GjhHVMr88c5EGSIwJf1hKQhtMog</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -121.3520622,38.4750943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PewDiePie</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/8EHPelbX63WyPCOkeNsqiu-1Z914bldbFV9nq7uM_ImfotWWuM83ZBNIt1Ku8kq-2J0UMoRkBePHx4SSivx3UlOE93Xwc00LLFU87XZngHzAVDlmDWBUKAwsNo4YPvYH" height="200" width="auto" /><br><br>The town of the most popular YouTuber, PewDiePie.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/8EHPelbX63WyPCOkeNsqiu-1Z914bldbFV9nq7uM_ImfotWWuM83ZBNIt1Ku8kq-2J0UMoRkBePHx4SSivx3UlOE93Xwc00LLFU87XZngHzAVDlmDWBUKAwsNo4YPvYH</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1370072,50.8226107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roman Atwood</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/3-WGsOgQq99pdcUH-gr7W4hW1ZD5wqVCZg101dqFKpnxYSp2PeQ9Fhzbn_IZDKLJSQ5VMvz48rgeVqF67NWDR7p4V77sEJApqFDvMANJ-lWZ1D9k3GQtjbUC995ag2zTOQ" height="200" width="auto" /><br><br>The town of the mega-popular YouTube prankster RomanAtwood.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/3-WGsOgQq99pdcUH-gr7W4hW1ZD5wqVCZg101dqFKpnxYSp2PeQ9Fhzbn_IZDKLJSQ5VMvz48rgeVqF67NWDR7p4V77sEJApqFDvMANJ-lWZ1D9k3GQtjbUC995ag2zTOQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -82.5342321,39.9001481,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faze House California</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/dGC6EFXU3X__-Usi3Jy9-iJp8-vBxP7uoAy3XMq9_2UdDG82hei6cNRzioSr6SOVpB7ioshAhec1EXYByDBXSy--TYumLFGwcMm1sHNz5gO0DGDE1uTCIXFypcFnlLQ" height="200" width="auto" /><br><br>The city of the Faze House in California. The members who live here are as follows:<br><br>FaZe Apex<br>FaZe Rain<br>FaZe Blaze<br>FaZe Teeqo<br>FaZe Adapt<br>FaZe Temperrr<br>FaZe Cheo]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/dGC6EFXU3X__-Usi3Jy9-iJp8-vBxP7uoAy3XMq9_2UdDG82hei6cNRzioSr6SOVpB7ioshAhec1EXYByDBXSy--TYumLFGwcMm1sHNz5gO0DGDE1uTCIXFypcFnlLQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -123.774789,39.5774229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>McJuggerNuggets</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/B7rb-UeHkr3LMQx6SfdE_lsWn2u_0B0sL4IHx5UB79VTDBtv7LI-fYkwG2TKfToMfYYR9ONl9gaFBEUc2AVPQaIQhznQ2GHG4qYFrwlPjwpphxRJJhIMwukyxW7LZAmbPA" height="200" width="auto" /><br><br>The town of the mega-popular YouTube Storyteller McJuggerNuggets]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/B7rb-UeHkr3LMQx6SfdE_lsWn2u_0B0sL4IHx5UB79VTDBtv7LI-fYkwG2TKfToMfYYR9ONl9gaFBEUc2AVPQaIQhznQ2GHG4qYFrwlPjwpphxRJJhIMwukyxW7LZAmbPA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1702756,39.5952598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sara Dietschy</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/4VibEcqnoCHwikJ24veJB9S0A45DodoeN3uWIgIFG4B1jYQXQ7st2Vx_LKZ_VZAqtEVldNKq95v2iMHYovcQHENtEBrZU-695QlubqavyAhtGQthZ0f93VdC3HcV2vak" height="200" width="auto" /><br><br>The city of the up & coming creative Sara Dietschy.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/4VibEcqnoCHwikJ24veJB9S0A45DodoeN3uWIgIFG4B1jYQXQ7st2Vx_LKZ_VZAqtEVldNKq95v2iMHYovcQHENtEBrZU-695QlubqavyAhtGQthZ0f93VdC3HcV2vak</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9822769,40.7588304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jaka Parker</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/MYMNS_qzxFVz8BHq0UhCb3zCzP3j3L0ytlqxQKNvBCD2Y0NReKFp8CeN1bJwarbvDlDlUgD6L9vqMeRRjBHERxQ7c_RV0D3PXUJvp_GuL7R2Mvpfq_hNWUGVp1vQEetx" height="200" width="auto" /><br><br>The home of the only North Korean vlogger.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/MYMNS_qzxFVz8BHq0UhCb3zCzP3j3L0ytlqxQKNvBCD2Y0NReKFp8CeN1bJwarbvDlDlUgD6L9vqMeRRjBHERxQ7c_RV0D3PXUJvp_GuL7R2Mvpfq_hNWUGVp1vQEetx</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          125.7634163,39.038753,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jake Paul</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/Nxl5Zo12AiLSIe6yg9Z_QybMJrVJE6reWWHgETHZG8OAIOsZTL1AmQZ3hFVa1vV2fJYOBIzJ7PTf4ryAR9_bMymHvHHGBUDgqTXR1dDQoYCPBhOeo5PiuSvyb065ftA" height="200" width="auto" /><br><br>The town of the internet's very own Jake and Logan Paul.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/Nxl5Zo12AiLSIe6yg9Z_QybMJrVJE6reWWHgETHZG8OAIOsZTL1AmQZ3hFVa1vV2fJYOBIzJ7PTf4ryAR9_bMymHvHHGBUDgqTXR1dDQoYCPBhOeo5PiuSvyb065ftA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -118.3831787,34.0333146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Logan Paul</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/fPP_-NydHXCjWCqlgZlW09moBa959b-v1iv_Bq8W5HHATaZib4W7nyox8p-3Lg366tXlYKATzvMwoKbdlsXCz7rqhGIwxMVtBF3jr_pGeDPUfBROA9AKycRzCXhduojN" height="200" width="auto" /><br><br>The town of the internet's very own Jake and Logan Paul.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/fPP_-NydHXCjWCqlgZlW09moBa959b-v1iv_Bq8W5HHATaZib4W7nyox8p-3Lg366tXlYKATzvMwoKbdlsXCz7rqhGIwxMVtBF3jr_pGeDPUfBROA9AKycRzCXhduojN</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -118.3392334,34.0708623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
